@@ -5,3 +5,4 @@
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
 curlimages/curl:8.2.1
+gcr.io/google-samples/gb-frontend:v5
