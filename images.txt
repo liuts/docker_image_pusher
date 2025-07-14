@@ -4,4 +4,4 @@
 #xhofe/alist:latest
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
-lissy93/dashy:latest
+registry.k8s.io/metrics-server/metrics-server:v0.8.0
