@@ -4,10 +4,7 @@
 
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
-ghcr.io/windmill-labs/windmill-lsp:latest
-ghcr.io/windmill-labs/windmill-multiplayer:latest
-ghcr.io/windmill-labs/caddy-l4:latest
-ghcr.io/windmill-labs/windmill:main
+alpine:latest
 
 
 
