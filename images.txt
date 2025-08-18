@@ -5,7 +5,6 @@
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alis
 
-hashicorp/vault-k8s:1.7.0
 hashicorp/vault:1.20.1
 
 
