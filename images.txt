@@ -5,6 +5,6 @@
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alis
 
-hashicorp/vault:1.20.1
 
+hashieducation/simple-vault-client:latest
 
