@@ -5,6 +5,5 @@
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alis
 
-
-hashieducation/simple-vault-client:latest
+gcr.io/go-containerregistry/crane:debug
 
